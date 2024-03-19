@@ -2,7 +2,7 @@
 
 ![](HR-Analytics.webp)
 ### Key Focus:
-Analysing and understanding employee attrition rates and related factors.
+Analysing and understanding employee attrition rates and related factors with the use of Python and Power BI.
 ### Observations:
 1. Attrition Rates by Departments: Highlighted disparities such as Research & Development with the highest average attrition rate (51.21%) and Hardware with the lowest (49.44%).
 2. Employee Statistics: Explored total employees, average hourly rates based on roles, and attrition rates versus monthly income stats for different departments.
@@ -11,7 +11,8 @@ Analysing and understanding employee attrition rates and related factors.
 This KPI explores the relationship between the attrition rate and the time elapsed since the last promotion for employees.
 
 ### Analysis:
-- Identified Challenges: Discovered issues like lower income, lack of work-life balance, unsatisfactory attrition rates, gender-based differences in hourly rates, and longer working hours.
+- Identified Challenges: Discovered issues like lower income, lack of work-life balance, unsatisfactory attrition rates, gender-based differences in hourly rates, and longer working hours.)
+  ![](HR_Analytics.png)
   
 ### Suggestions for Improvement:
 - Income and Appraisals: Suggested increasing income with good appraisals to boost job satisfaction.
