@@ -1,6 +1,6 @@
 # HR_ANALYTICS
 
-![](HR-Analytics.WEBP)
+![](HR-Analytics.webp)
 Key Focus: Analysing and understanding employee attrition rates and related factors.
 Observations:
 1. Attrition Rates by Departments: Highlighted disparities such as Research & Development with the highest average attrition rate (51.21%) and Hardware with the lowest (49.44%).
